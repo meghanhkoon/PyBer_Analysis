@@ -13,7 +13,7 @@ After the exploratory analysis of Pyber's data, the purpose of our new assignmen
 
 ## Resources 
 - Data Source: city_data.csv, ride_data_csv
-- Software: Python 3.9.12, Anaconda 4.14.0, Jupyter Notebook 6.4.8 , Pandas, Matplotlib
+- Software: Python 3.9.12, Anaconda 4.14.0, Jupyter Notebook 6.4.8 , Pandas 1.4.2 , Matplotlib 3.5.1
 
 
 ## Results: Statistics & Analysis
